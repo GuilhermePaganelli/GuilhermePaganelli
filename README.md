@@ -1,4 +1,10 @@
-## Hi there 👋
+## Guilherme Paganelli
+
+• Estudante de Sistemas de Informação  
+• Praticando lógica, algoritmos e estrutura de dados  
+• Atualmente aprendendo Java e Linguagem C  
+• Interessado em desenvolvimento backend e análise de dados  
+• Bombinhas-SC | Brasil 📍
 
 <!--
 **GuilhermePaganelli/GuilhermePaganelli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
