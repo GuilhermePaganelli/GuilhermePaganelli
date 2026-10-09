@@ -14,7 +14,7 @@
 
 - 📫 How to reach me:@_guipaganelli_
 
-- 💼 LinkedIn: [[My LinkedIn](https://www.linkedin.com/in/guilherme-paganelli-b0080a170/)](YOUR_LINKEDIN_URL)
+- 💼 LinkedIn: www.linkedin.com/in/guilherme-paganelli-b0080a170
 
 - 📧 Email: guilhermepaganelli8@gmail.com
 
