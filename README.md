@@ -1,10 +1,16 @@
-## Guilherme Paganelli
+# Olá, eu sou Guilherme Paganelli! 👋
 
-• Estudante de Sistemas de Informação  
-• Praticando lógica, algoritmos e estrutura de dados  
-• Atualmente aprendendo Java e Linguagem C  
-• Interessado em desenvolvimento backend e análise de dados  
-• Bombinhas-SC | Brasil 📍
+🎓 Estudante de Sistemas de Informação na UNIAVAN.
+
+💻 Desenvolvedor em formação, com foco em Backend e Banco de Dados.
+
+🚀 Desenvolvendo projetos e aprimorando conhecimentos em
+Java, JavaScript, Node.js, React e MySQL.
+
+🧠 Interesse em desenvolvimento de software, arquitetura
+de sistemas e análise de dados.
+
+📍 Santa Catarina | Brasil.
 
 <!--
 **GuilhermePaganelli/GuilhermePaganelli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
